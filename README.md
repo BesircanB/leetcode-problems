@@ -16,10 +16,13 @@ leetcode/
 │
 ├── easy/ # Beginner-friendly problems
 │ 
+│
 ├── medium/ # Standard interview-level problems
 │ 
+│
 ├── hard/ # Advanced algorithmic challenges
 │ 
+│
 └── README.md
 
 ---
